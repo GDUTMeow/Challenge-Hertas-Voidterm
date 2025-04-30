@@ -1,4 +1,8 @@
-# Herta's Voidterm 1
+# Herta's Voidterm
+
+> 本体提供给选手的题目附件使用了 https://js-confuser.com/editor 进行混淆
+
+## Herta's Voidterm 1
 
 拿到终端，使用`help`查看命令，发现可以查看环境变量
 
@@ -8,7 +12,7 @@
 
 ![](https://cdn.jsdelivr.net/gh/GDUTMeow/Hertas-Voidterm/Pictures/msedge_hV4KgAEGb8.png)
 
-# Herta's Voidterm 2
+## Herta's Voidterm 2
 
 查看 `/etc/hosts` 可以发现有一条记录
 
@@ -26,7 +30,7 @@ Windows 下使用 `nslookup -q=txt th3-h3rt4.bili33.top`，Linux 下使用 `dig 
 
 `flag{MAd@M_HerT@_I5-AN-uNr1v4Lled_gen1US_=w=}` = 黑塔女士聪明绝顶
 
-# Herta's Voidterm 3
+## Herta's Voidterm 3
 
 在 `/home/herta/Pictures` 目录下发现 `Igiari.png`，结合题目说明 `本站的 cat 命令是经过修改的，如果 cat 到了非纯文本文件会触发下载`，很可能这个文件有用
 
