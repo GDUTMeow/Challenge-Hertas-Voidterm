@@ -1,6 +1,6 @@
 # Herta's Voidterm
 
-> 本体提供给选手的题目附件使用了 https://js-confuser.com/editor 进行混淆
+> 本题提供给选手的题目附件使用了 https://js-confuser.com/editor 进行混淆
 
 ## Herta's Voidterm 1
 
